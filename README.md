@@ -1,2 +1,2 @@
-# EasyCall
-Easy call from libs
+# Base de dados contendo tweets sobre os 3 principais candidatos à Presidência
+Dados coletados entre ...-...
